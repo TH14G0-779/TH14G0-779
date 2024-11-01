@@ -4,4 +4,4 @@
 # 💯 Estou interessado
   Me interesso principalmente por computação e manutenção de computadores
 # 🔨 Atualmente Estudo
-  Estudo informatica na etec
+  Estudo informatica na etec de maua

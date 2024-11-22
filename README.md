@@ -1,12 +1,12 @@
 
 ## Sobre mim
 
-- 🤔 Me intereço pela área de tecnologia desde de criança
-- 🎓 Estudando Informática na Etec de Mauá.
-- 💼 Tento coisas novas assim que tenho oportunidade
-- 🌱 Aprendendo mais sobre Sistemas Embarcados, Programação e Edição de Mídia.
+- 😀 Me intereço pela área de tecnologia desde de criança
+- 🧠 Estudando Informática na Etec de Mauá.
+- 🤔 Tento coisas novas assim que tenho oportunidade
+- 🤓 Aprendendo mais sobre Sistemas Embarcados, Programação e Edição de Mídia.
 
-## Minhas Skills
+## Skills
 
 **Aplicações e dados**
 

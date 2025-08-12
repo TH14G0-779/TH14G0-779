@@ -1,9 +1,9 @@
 ## 👊 Olá, meu nome é Thiago!
 
-💻 Amador em T.I, explorando o mundo da tecnologia com curiosidade e dedicação.
-🌱 Iniciando minha jornada com HTML, CSS e JavaScript.
-🔍 Interessado em diversos setores, sempre buscando aprender e experimentar.
-🚀 Apaixonado pelo que a tecnologia pode proporcionar às pessoas.
+# 💻 Amador em T.I, explorando o mundo da tecnologia com curiosidade e dedicação.
+# 🌱 Iniciando minha jornada com HTML, CSS e JavaScript.
+# 🔍 Interessado em diversos setores, sempre buscando aprender e experimentar.
+# 🚀 Apaixonado pelo que a tecnologia pode proporcionar às pessoas.
 
 📚 Recentemente, tenho me dedicado a treinar com códigos simples, priorizando a construção de uma base sólida antes de partir para algo mais complexo. Ainda não possuo projetos mais elaborados publicados, pois meu foco atual está em aprimorar minhas habilidades e entender bem os fundamentos. Acredito que dominar o básico é essencial para, no futuro, desenvolver aplicações mais robustas e criativas.
 

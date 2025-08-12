@@ -1,29 +1,23 @@
+## 👊 Olá, meu nome é Thiago!
 
-## Sobre mim
+💻 Amador em T.I, explorando o mundo da tecnologia com curiosidade e dedicação.
+🌱 Iniciando minha jornada com HTML, CSS e JavaScript.
+🔍 Interessado em diversos setores, sempre buscando aprender e experimentar.
+🚀 Apaixonado pelo que a tecnologia pode proporcionar às pessoas.
 
-- 😀 Me intereço pela área de tecnologia desde de criança
-- 🧠 Estudando Informática na Etec de Mauá.
-- 🤔 Tento coisas novas assim que tenho oportunidade
-- 🤓 Aprendendo mais sobre Sistemas Embarcados, Programação, criação e edição de Mídia.
-
-## Skills
-
-**Aplicações e dados**
-
-![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+📚 Recentemente, tenho me dedicado a treinar com códigos simples, priorizando a construção de uma base sólida antes de partir para algo mais complexo. Ainda não possuo projetos mais elaborados publicados, pois meu foco atual está em aprimorar minhas habilidades e entender bem os fundamentos. Acredito que dominar o básico é essencial para, no futuro, desenvolver aplicações mais robustas e criativas.
 
 
-**DevOps**
+---
 
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+## 🚀 Minhas Skills
 
-**Ferramentas de desenvolvimento**
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+---
 
-## Onde me encontrar
+## ⭐ GitHub Stats
 
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thi_ramalhoalves@outlook.com)](mailto:thi_ramalhoalves@outlook.com)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/TH14G0-779)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iuricode&show_icons=true)
